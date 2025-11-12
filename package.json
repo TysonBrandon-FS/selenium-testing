@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "D": "^1.0.0",
+    "dotenv": "^17.2.3",
+    "jest": "^30.2.0",
+    "selenium-webdriver": "^4.38.0"
+  }
+}
